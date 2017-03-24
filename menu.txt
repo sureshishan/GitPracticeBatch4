@@ -1,6 +1,8 @@
 		=========================
 			WELCOME
 		=========================
+Menu
+
 Tea
 Coffe
 Cold Coffe
